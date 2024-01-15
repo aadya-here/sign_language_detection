@@ -1,0 +1,7 @@
+method 1 :
+open vs code and run mediapipe_pred.py
+
+method 2 :
+open the code directory in cmd and write python mediapipe_pred.py
+
+in some time once the code loads, a camera window should pop up
